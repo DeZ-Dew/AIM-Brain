@@ -1,0 +1,100 @@
+Hello World
+
+
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop
+$ cd python_stacks
+bash: cd: python_stacks: No such file or directory
+
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop
+$ cd python_stack
+
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack
+$ cd my_environments
+
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments
+$ source py3Env/Scripts/activate
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments
+$ cd _python
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ python hello_world.py
+Hello World
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ python hello_world.py
+Hello World
+Hello DeZavier
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ python hello_world.py
+Hello World
+Hello DeZavier
+HelloDeZ
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ python hello_world.py
+Hello World
+Hello DeZavier!
+Hello DeZ!
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ python hello_world.py
+Hello World
+Hello DeZavier!
+Hello DeZ!
+Hello 10
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ python hello_world.py
+Hello World
+Hello DeZavier!
+Hello DeZ!
+Hello 10!
+Hello 10!
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ python hello_world.py
+  File "hello_world.py", line 3
+    print("Hello", name)
+    ^
+IndentationError: unexpected indent
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ python hello_world.py
+Hello World
+Hello DeZavier!
+Hello DeZ!
+Hello 10!
+Hello 10!
+I love to eat Pizza and Wings
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ python hello_world.py
+Hello World
+Hello DeZavier!
+Hello DeZ!
+Hello 10!
+Hello 10!
+I love to eat Pizza and Wings
+Traceback (most recent call last):
+  File "hello_world.py", line 13, in <module>
+    food_one = laksa
+NameError: name 'laksa' is not defined
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ python hello_world.py
+Hello World
+Hello DeZavier!
+Hello DeZ!
+Hello 10!
+Hello 10!
+I love to eat Pizza and Wings
+I love to eat laksa and rendang.
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$ ^C
+(py3Env)
+marea@LAPTOP-FQIU0AKG MINGW64 ~/OneDrive/Desktop/python_stack/my_environments/_python
+$
+ 
